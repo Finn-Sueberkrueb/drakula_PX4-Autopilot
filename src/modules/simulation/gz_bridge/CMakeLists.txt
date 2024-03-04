@@ -93,6 +93,9 @@ if(gz-transport_FOUND)
 		windy
 		baylands
 		erding
+        warehouse
+        warehouseempty
+        agriculture
 	)
 
 	# find corresponding airframes
